@@ -7,7 +7,7 @@
     {/*hero-section-images */}
     import transact from './assets/pay.png'
     import quick from './assets/24-support.png'
-    import secure from './assets/Vector2.png'
+    import secure from './assets/vector2.png'
     import digital from './assets/Icon.png'
     {/*sub-hero-section */}
     import iphone from './assets/iPhone.png'
