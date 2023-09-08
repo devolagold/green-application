@@ -7,7 +7,7 @@
     {/*hero-section-images */}
     import transact from './assets/pay.png'
     import quick from './assets/24-support.png'
-    import secure from './assets/vector2.png'
+    import secure from './assets/Vector2.png'
     import digital from './assets/Icon.png'
     {/*sub-hero-section */}
     import iphone from './assets/iPhone.png'
@@ -28,7 +28,7 @@
     import linkedln from './assets/linkedin-icon.png'
     import instagram from './assets/insta-icon.png'
     {/* footer section */}
-    import iphonee from './assets/iphone (1).png'
+    import iphonee from './assets/iPhone (1).png'
     {/* loan-section */}
 
 
