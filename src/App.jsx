@@ -10,7 +10,7 @@
     import secure from './assets/vector2.png'
     import digital from './assets/Icon.png'
     {/*sub-hero-section */}
-    import iphone from './assets/iphone.png'
+    import iphone from './assets/iPhone.png'
     {/*seamless-section */}
     import chart from './assets/goalsectionimage.png'
     {/*chart-section */}
